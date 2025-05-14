@@ -57,3 +57,39 @@ Key insights were extracted using Power BI visualizations and DAX measures, incl
 In this Dashboard there is a page :
 - Overview
 ![Data Model](DAX_measurement/Dashboard.png)
+
+## 8. Insight
+🔶 Income Overview
+  - Actual Income: $1.07M vs Budgeted Income: $1.231M → -12.75% variance (underperformed)
+  - Only 87.25% of the income budget was achieved.
+  - The worst performance in the last 6 years, reversing the upward trend from 2021–2023.
+
+- Income by Project:
+  - Overperformed Projects:
+    - Project 1050: +1.00% ($1,406,484 vs $1,392,540)
+    - Project 1052: +1.57% ($1,449,266 vs $1,426,800)
+
+  - Underperformed Projects:
+    - Project 1051: -3.80%
+    - Project 1053: -5.71%
+    - Project 1054: -6.76% (worst performing)
+
+🔷 Expense Overview
+  - Actual Expense: $369,155 vs Budgeted Expense: $403,400 → -8.49% variance (underspent)
+  - Only 91.51% of the expense budget was used.
+  - This is consistent with a multi-year trend of expense efficiency (spending under budget since 2019).
+
+- Expense by Project:
+  - All projects spent below their allocated budgets, with variance ranging from -6.82% to -11.47%.
+  - Project 1050 had the largest underspend: -11.47%
+ 
+📊 Trends and Patterns
+- Negative income trend in 2024 broke the previously improving trend seen in 2021–2023.
+- Expense control remains strong, showing continued operational efficiency.
+- Discrepancy between income underperformance and expense underspending suggests a potential issue in revenue generation rather than cost control.
+
+## 9. Summary of Recommendations
+- Investigate the cause of income shortfall, particularly for Projects 1053 and 1054.
+- Reassess income projections for future years—2024 targets may have been overly optimistic.
+- Maintain current expense management strategies, as budgets are being well controlled.
+- Would you like help turning these insights into a presentation slide or report summary?
