@@ -1,9 +1,9 @@
-# Financial Reporting
+# Financial Project Reporting
 
 ![](finance.png)
 
 ## 1. Introduction
-This financial dashboard provides a comprehensive overview of actual income and expenses compared to the allocated budget from 2019 - 2024. It consolidates data from both transaction and budget records to monitor financial performance across various projects and account categories. Key indicators such as budget variance, budget utilization rate, and monthly trends enable quick identification of underperforming income sources and over- or under-spending areas. The dashboard also supports project-level analysis, offering insights into revenue and cost efficiency. With interactive visuals and variance breakdowns, it serves as a valuable tool for informed financial decision-making and strategic budget management.
+This financial project dashboard provides a comprehensive overview of actual income and expenses compared to the allocated budget from 2019 - 2024. It consolidates data from both transaction and budget records to monitor financial performance across various projects and account categories. Key indicators such as budget variance, budget utilization rate, and monthly trends enable quick identification of underperforming income sources and over- or under-spending areas. The dashboard also supports project-level analysis, offering insights into revenue and cost efficiency. With interactive visuals and variance breakdowns, it serves as a valuable tool for informed financial decision-making and strategic budget management.
 
 ## 2. Problem Statement
 Effective financial management requires timely and accurate insights into how actual income and expenses align with budgeted expectations. However, discrepancies often arise due to fluctuating revenues, unanticipated costs, and inefficient allocation of financial resources across projects. Without clear visibility into these variances, organizations risk overspending, underperformance, and missed financial targets. By leveraging budget-to-actual comparisons, trend analysis, and project-level breakdowns, this financial dashboard aims to enhance transparency and support data-driven decision-making.
@@ -92,4 +92,10 @@ In this Dashboard there is a page :
 - Investigate the cause of income shortfall, particularly for Projects 1053 and 1054.
 - Reassess income projections for future years—2024 targets may have been overly optimistic.
 - Maintain current expense management strategies, as budgets are being well controlled.
-- Would you like help turning these insights into a presentation slide or report summary?
+
+---
+### Repository Contents  
+- **Power BI Dashboard File**: The main [PBIX File](Project Actual vs Budget.pbix) containing the analysis and visualizations. 
+- **Data Sources**: [Raw Dataset](Project_Monthly_Performance_2019_2024.xlsx) used in the project.  
+- **Screenshots/Reports**: Exported visualizations for sharing insights.  
+- **README.md**: Project documentation (this file).
