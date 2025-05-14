@@ -40,5 +40,20 @@ Here are some DAXs used for financial analysis:
 #### Calculate Total and Average
 ![Data Model](DAX_measurement/DAXMeasureSumAvg.png)
 
-#### Calculate Variance
-![Data Model](DAX_measurement/DAXMeasure%.png)
+#### Calculate Variance and Variance Percentage of Income and Expense (Actual and Budget)
+![Data Model](DAX_measurement/DAXvariance.png)
+
+#### Customizing Bar Chart (Income)
+![Data Model](DAX_measurement/IncomeBarChart.png)
+
+#### Customizing Bar Chart (Expense)
+![Data Model](DAX_measurement/ExpenseBarChart.png)
+
+## 7. Analysis & Visualization
+Key insights were extracted using Power BI visualizations and DAX measures, including:
+- **KPIs:** Income and Budget Rate, Ratio of Income and Expense (Actual and Budget), and Project ID Details
+- **Bar Charts & Line Charts** for trend analysis
+
+In this Dashboard there is a page :
+- Overview
+![Data Model](DAX_measurement/Dashboard.png)
